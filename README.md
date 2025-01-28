@@ -1,4 +1,4 @@
-Mi nombre es Esteban David Salas Cortina, tengo 20 años de edad y soy tecnólogo en análisis y desarrollo de sistemas
+Mi nombre es Esteban David Salas Cortina, tengo 21 años de edad y soy tecnólogo en análisis y desarrollo de sistemas
 de información. Poseo experiencia en programación (Python, JavaScript, ReactJS, Oracle APEX, PHP Laravel) y gestión
 de bases de datos (SQL Server, MySQL y PL/SQL). Trabajo bien en equipo, aplicando metodologías como Scrum y Kanban. Mi
 enfoque se centra en la resolución de problemas y el apoyo al equipo. Soy activo, disciplinado y rápido para aprender,
